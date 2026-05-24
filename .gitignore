@@ -1,1 +1,9 @@
+<<<<<<< HEAD
 index.js
+=======
+# Object file
+*.o
+
+# Ada Library Information
+*.ali
+>>>>>>> bc89f1b4ceb01fa5089859c2593f79ee6dacef3b
